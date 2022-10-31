@@ -1,0 +1,5 @@
+In command prompt:
+
+javac Main.java
+
+java Main
